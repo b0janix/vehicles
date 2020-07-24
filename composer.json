@@ -1,0 +1,16 @@
+{
+    "name": "bojan/wordpress",
+    "description": "Wordpress Project",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Bojan Nedelkovski",
+            "email": "nedelkovskibojan@yahoo.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "vlucas/phpdotenv": "5.1.*"
+    }
+}
