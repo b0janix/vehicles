@@ -73,7 +73,7 @@ Now you should create two pages vehicles and vehicle. To the first assign the te
 vehicles, while to the second assign the template vehicle. 
 I haven't started on the second page as I run out of time. It is a single page which should display
 a detailed info about each vehicle, while the first vehicles page is more like landing page
-where you are able to see a list of all the vehicles and you can filter the by make, model, year and location.
+where you are able to see a list of all the vehicles and you can filter them by make, model, year and location.
 The template names are defined in the files located inside the directory 
 wp-content/themes/vehicles/templates. Also you should visit the Vehicle Settings admin panel
 which I've created and which is a custom theme options admin panel that serves for adding and updating
